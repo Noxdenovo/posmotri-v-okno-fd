@@ -171,12 +171,6 @@ ol {
   }
 }
 
-@supports (line-clamp: 1) {
-  .content__video-card-description {
-    line-clamp: 1;
-  }
-}
-
 .visually-hidden {
   position: absolute;
   inline-size: 1px;
